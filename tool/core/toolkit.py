@@ -1,4 +1,4 @@
-import pandas as pd
+import requests
 
 def add(x, y):
     return x + y

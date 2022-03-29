@@ -12,4 +12,9 @@ setup(
   install_requires=[],
   include_package_data=True,
   package_data={'': ['*.txt']},
+  entry_points={
+    'console_scripts': [
+      'tool_test=tool.main:script_foo',
+    ]
+  }
 )

@@ -6,4 +6,4 @@ def func_foo(x, y, z):
 
 
 def script_foo():
-    return func_foo(1, 3, 5)
+    print(func_foo(1, 3, 5))
