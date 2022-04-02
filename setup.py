@@ -14,7 +14,8 @@ setup(
   package_data={'': ['*.txt']},
   entry_points={
     'console_scripts': [
-      'tool_test=tool.main:script_foo',
+      'tool_flat=tool_flat.main:script_foo',
+      'tool_nested=tool_nested.main:script_foo',
     ]
   }
 )
