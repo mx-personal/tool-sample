@@ -7,7 +7,7 @@ setup(
   license='MIT',
   description='Dummy app to test apps deployment possibilities',
   author='mx',
-  url='https://github.com/mx-personal/tool-sample',
+  url='https://github.com/mx-personal/tool_sample',
   keywords=['tool', 'test', ],
   install_requires=[],
   include_package_data=True,
