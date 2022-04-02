@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-  name='tool_sample',
+  name='tool-sample',
   packages=find_packages(),
   version='0.1',
   license='MIT',
   description='Dummy app to test apps deployment possibilities',
   author='mx',
-  url='https://github.com/mx-personal/tool_sample',
+  url='https://github.com/mx-personal/tool-sample',
   keywords=['tool', 'test', ],
   install_requires=[],
   include_package_data=True,
