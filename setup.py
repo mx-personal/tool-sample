@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-  name='tool-sample',
+  name='tool_sample',
   packages=find_packages(),
   version='0.1',
   license='MIT',
