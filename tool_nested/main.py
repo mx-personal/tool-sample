@@ -1,4 +1,4 @@
-import tool.core.toolkit as toolkit
+import tool_nested.core.toolkit as toolkit
 
 
 def func_foo(x, y, z):
