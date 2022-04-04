@@ -1,4 +1,4 @@
-import tool.core.toolkit as toolkit
+import tool_nested.core.toolkit as toolkit
 
 
 def func_foo(x, y, z):
@@ -7,3 +7,5 @@ def func_foo(x, y, z):
 
 def script_foo():
     print(func_foo(1, 3, 5))
+
+
